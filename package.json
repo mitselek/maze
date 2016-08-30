@@ -1,0 +1,22 @@
+{
+  "private": false,
+  "name": "maze",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "JS excersize for maze generation",
+  "homepage": "https://github.com/mitselek/maze",
+  "author": "Mihkel Putrinš <mihkel.putrinsh@google.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mitselek/maze"
+  },
+  "bugs": {
+    "email": "mihkel.putrinsh@google.com",
+    "url": "https://github.com/mitselek/maze/issues"
+  },
+  "dependencies": {
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
